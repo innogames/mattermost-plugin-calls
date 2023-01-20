@@ -497,6 +497,8 @@ github.com/imdario/mergo v0.3.10/go.mod h1:jmQim1M+e3UYxmgPu/WyfjB3N3VflVyUjjjwH
 github.com/imdario/mergo v0.3.11/go.mod h1:jmQim1M+e3UYxmgPu/WyfjB3N3VflVyUjjjwH0dnCYA=
 github.com/imdario/mergo v0.3.12/go.mod h1:jmQim1M+e3UYxmgPu/WyfjB3N3VflVyUjjjwH0dnCYA=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
+github.com/innogames/rtcd v0.0.0-20230120101541-a743fe041129 h1:wFEL1WXLgNhFC0x4J/PktprpV9setBrJpMWPZ8S2VNs=
+github.com/innogames/rtcd v0.0.0-20230120101541-a743fe041129/go.mod h1:nbhew3EbGY0CzN0xYg5ETnlx6zsZiP8o+zsmbhee39Q=
 github.com/j-keck/arping v0.0.0-20160618110441-2cf9dc699c56/go.mod h1:ymszkNOg6tORTn+6F6j+Jc8TOr5osrynvN6ivFWZ2GA=
 github.com/jellevandenhooff/dkim v0.0.0-20150330215556-f50fe3d243e1/go.mod h1:E0B/fFc00Y+Rasa88328GlI/XbtyysCtTHZS8h7IrBU=
 github.com/jhump/protoreflect v1.6.0 h1:h5jfMVslIg6l29nsMs0D8Wj17RDVdNYti0vDN/PZZoE=
@@ -564,8 +566,6 @@ github.com/mattermost/mattermost-plugin-api v0.1.1 h1:bNnPbWCLWZpT/k2kjUxNnzCfUg
 github.com/mattermost/mattermost-plugin-api v0.1.1/go.mod h1:9yZhtg0bBj3kqSTjXnjYBMZoTsWbe3ajdFMdl9/Jz34=
 github.com/mattermost/mattermost-server/v6 v6.0.0-20221122212622-0509e78744bf h1:a61ZNxW8zYZjNSbH4Y3agqkWcw7AAo7XxXU4i722Ozs=
 github.com/mattermost/mattermost-server/v6 v6.0.0-20221122212622-0509e78744bf/go.mod h1:B9ntfVMlYp1gsCnEKRuM4nMN02l2LQG0+JEPJoSA3mk=
-github.com/mattermost/rtcd v0.8.0 h1:aFacLwfuLhyxGFZrL12uhm1DBrGaa1Ytj8ynKMXdY0k=
-github.com/mattermost/rtcd v0.8.0/go.mod h1:obJtR9gnk6jOk6GC1YyOuq7z1DIaIrvwkyPGvYta0tE=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-colorable v0.1.9/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
 github.com/mattn/go-colorable v0.1.12/go.mod h1:u5H1YNBxpqRaxsYJYSkiCWKzEfiAb1Gb520KVy5xxl4=

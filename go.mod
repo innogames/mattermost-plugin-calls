@@ -24,6 +24,8 @@ require (
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324
 )
 
+replace github.com/mattermost/rtcd v0.8.0 => github.com/innogames/rtcd v0.0.0-20230120101541-a743fe041129
+
 require (
 	git.mills.io/prologic/bitcask v1.0.2 // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
